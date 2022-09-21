@@ -1,0 +1,24 @@
+{
+  "name": "webpack_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack serve",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "ts-loader": "^9.4.0",
+    "typescript": "^4.8.3",
+    "webpack-cli": "^4.10.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.185",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
